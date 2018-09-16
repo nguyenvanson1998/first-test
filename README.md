@@ -1,2 +1,1 @@
-# first-test
-fisrt commit
+#huong dan hoc Git 
